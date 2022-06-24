@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nandha ( Nandhakumar Murugan )
 - 👀 I’m interested in watching movies and listening to music
-- 🌱 I’m currently learning DSA and System Designing both Highlevel and Lowlevel
+- 🌱 I’m currently learning DSA and System Design (both Highlevel and Lowlevel)
 - 📫 Reach me on : https://www.linkedin.com/in/nandha-kumar-b39794238/
 
 <!---
